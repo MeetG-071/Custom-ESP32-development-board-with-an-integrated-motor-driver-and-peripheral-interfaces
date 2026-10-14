@@ -25,7 +25,7 @@ Designed a custom ESP32-based PCB using **Altium Designer**, integrating motor c
 
 ### 3D PCB View
 <!-- Add your 3D PCB render here -->
-![3D PCB Render]()
+![3D PCB Render](Media/3D View in Altium.jpeg)
 
 ### Fabricated PCB
 <!-- Add a photograph of the manufactured PCB here -->
