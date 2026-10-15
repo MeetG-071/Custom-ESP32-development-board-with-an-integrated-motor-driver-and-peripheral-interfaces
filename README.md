@@ -1,4 +1,3 @@
-
 # Custom ESP32 Controller Board
 ### PCB Design & Hardware Integration
 
@@ -24,10 +23,16 @@ Designed a custom ESP32-based PCB using **Altium Designer**, integrating motor c
 ## PCB Design
 
 ### 3D PCB View
-![3D PCB View](Media/3D%20View%20in%20Altium.jpeg)
+![3D PCB View](Media/3D_View.png)[cite: 1]
+
+### Top Layer
+![Top Layer](Media/Top_Layer.png)[cite: 1]
+
+### Bottom Layer
+![Bottom Layer](Media/Bottom_Layer.png)[cite: 1]
 
 ### Fabricated PCB
-![Fabricated PCB](Media/Fabricated%20PCB.jpeg)
+![Fabricated PCB](Media/Fabricated_PCB.jpeg)[cite: 1]
 
 ## Key Learning Outcomes
 - PCB component placement and routing.
