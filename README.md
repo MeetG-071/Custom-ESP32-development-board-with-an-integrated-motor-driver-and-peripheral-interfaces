@@ -23,16 +23,16 @@ Designed a custom ESP32-based PCB using **Altium Designer**, integrating motor c
 ## PCB Design
 
 ### 3D PCB View
-![3D PCB View](Media/3D_View.png)[cite: 1]
+![3D PCB View](Media/3D_View.png)
 
 ### Top Layer
-![Top Layer](Media/Top_Layer.png)[cite: 1]
+![Top Layer](Media/Top_Layer.png)
 
 ### Bottom Layer
-![Bottom Layer](Media/Bottom_Layer.png)[cite: 1]
+![Bottom Layer](Media/Bottom_Layer.png)
 
 ### Fabricated PCB
-![Fabricated PCB](Media/Fabricated_PCB.jpeg)[cite: 1]
+![Fabricated PCB](Media/Fabricated_PCB.jpeg)
 
 ## Key Learning Outcomes
 - PCB component placement and routing.
