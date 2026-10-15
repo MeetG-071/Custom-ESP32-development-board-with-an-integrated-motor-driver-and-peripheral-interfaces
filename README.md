@@ -18,7 +18,7 @@ Designed a custom ESP32-based PCB using **Altium Designer**, integrating motor c
 ## Design Tools
 - **PCB Design:** Altium Designer
 - **Microcontroller:** ESP32
-- **Motor Driver:** TB6612FNG
+- **Motor Driver:** TB6612FNG, FRC Connectors for BTS7960
 - **Design Focus:** PCB Layout, Hardware Integration, Embedded Systems
 
 ## PCB Design
